@@ -1,2 +1,2 @@
-Hello World!
-._.
+Hello I am Alex!
+- Electrical Member for Team 3749
