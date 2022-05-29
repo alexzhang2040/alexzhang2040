@@ -1,2 +1,2 @@
 Hello I am Alex!
-- Electrical Member for Team 3749
+- Electrical Member for FRC Team Optix 3749
